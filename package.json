@@ -1,0 +1,19 @@
+{
+  "name": "first-component",
+  "version": "0.0.0",
+  "description": "Webcomponent first-component following open-wc recommendations",
+  "author": "first-component",
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "dependencies": {
+    "lit-html": "^1.4.1",
+    "lit-element": "^2.5.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.18"
+  }
+}
